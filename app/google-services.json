@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786508469874",
+    "project_id": "gestion-de-citas-817dd",
+    "storage_bucket": "gestion-de-citas-817dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786508469874:android:4a6e82fff03fb4d61054eb",
+        "android_client_info": {
+          "package_name": "com.felipezuniga.ogcmv_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfltxFg2Gdy2iM6Bxx0l0ZOaok0AfKAxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
