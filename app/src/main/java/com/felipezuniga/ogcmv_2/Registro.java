@@ -125,7 +125,7 @@ private void ValidarDatos(){
     }
 
     private void GuardarInformacion() {
-        progressDialog.setMessage("Guardando su imformacion");
+        progressDialog.setMessage("Guardando su informacion");
         progressDialog.dismiss();
 
         //Obtener datos de usuario actual
