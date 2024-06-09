@@ -1,4 +1,4 @@
-package com.felipezuniga.ogcmv_2;
+package com.felipezuniga.ogcmv_2.Perfil;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -15,10 +15,8 @@ import androidx.activity.EdgeToEdge;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
+import com.felipezuniga.ogcmv_2.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.Task;
